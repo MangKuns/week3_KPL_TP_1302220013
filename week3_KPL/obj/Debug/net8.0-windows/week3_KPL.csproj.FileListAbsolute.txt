@@ -1,0 +1,16 @@
+D:\KPL\week3_KPL\week3_KPL\bin\Debug\net8.0-windows\week3_KPL.exe
+D:\KPL\week3_KPL\week3_KPL\bin\Debug\net8.0-windows\week3_KPL.deps.json
+D:\KPL\week3_KPL\week3_KPL\bin\Debug\net8.0-windows\week3_KPL.runtimeconfig.json
+D:\KPL\week3_KPL\week3_KPL\bin\Debug\net8.0-windows\week3_KPL.dll
+D:\KPL\week3_KPL\week3_KPL\bin\Debug\net8.0-windows\week3_KPL.pdb
+D:\KPL\week3_KPL\week3_KPL\obj\Debug\net8.0-windows\week3_KPL.Form1.resources
+D:\KPL\week3_KPL\week3_KPL\obj\Debug\net8.0-windows\week3_KPL.csproj.GenerateResource.cache
+D:\KPL\week3_KPL\week3_KPL\obj\Debug\net8.0-windows\week3_KPL.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL\week3_KPL\week3_KPL\obj\Debug\net8.0-windows\week3_KPL.AssemblyInfoInputs.cache
+D:\KPL\week3_KPL\week3_KPL\obj\Debug\net8.0-windows\week3_KPL.AssemblyInfo.cs
+D:\KPL\week3_KPL\week3_KPL\obj\Debug\net8.0-windows\week3_KPL.csproj.CoreCompileInputs.cache
+D:\KPL\week3_KPL\week3_KPL\obj\Debug\net8.0-windows\week3_KPL.dll
+D:\KPL\week3_KPL\week3_KPL\obj\Debug\net8.0-windows\refint\week3_KPL.dll
+D:\KPL\week3_KPL\week3_KPL\obj\Debug\net8.0-windows\week3_KPL.pdb
+D:\KPL\week3_KPL\week3_KPL\obj\Debug\net8.0-windows\week3_KPL.genruntimeconfig.cache
+D:\KPL\week3_KPL\week3_KPL\obj\Debug\net8.0-windows\ref\week3_KPL.dll
